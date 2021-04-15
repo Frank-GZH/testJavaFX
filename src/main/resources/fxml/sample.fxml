@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.web.*?>
+
+<Pane maxHeight="1024" maxWidth="1280" minHeight="1024.0" minWidth="1280.0" prefHeight="1024.0"
+      prefWidth="1280.0"
+      xmlns="http://javafx.com/javafx/10.0.2-internal"
+      xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <WebView fx:id="webview1" layoutX="0" layoutY="0" maxHeight="1024.0" maxWidth="1280.0" minHeight="1024.0" minWidth="1280.0" prefHeight="1024.0" prefWidth="1280.0" />
+   </children>
+</Pane>
